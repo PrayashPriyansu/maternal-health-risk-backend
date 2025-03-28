@@ -5,7 +5,7 @@ from model import MaternalHealthRiskModel
 app = FastAPI()
 
 origins = [
-    "https://maternal-health-risk.vercel.app/", 
+    "https://maternal-health-risk.vercel.app", 
     "http://localhost:3000"  
 ]
 
